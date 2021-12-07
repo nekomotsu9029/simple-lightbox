@@ -1,8 +1,6 @@
 # Simple lightbox
 
-_Para usarlo es simple, solo linkealo a tu documento Html y listo! a cada imagen que le pongas la clase "lightbox" tendra el efecto._
-
-ejemplo: <img src="<url>" class="lightbox">
+_Para usarlo es simple, solo linkealo a tu documento Html y listo! a cada imagen que le pongas la clase "lightbox" tendra el efecto, "mira un ejemplo en la carpeta example"._
 
 _tambien puedes linkear el script a travez de su cdn._
 
